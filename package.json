@@ -1,0 +1,19 @@
+{
+  "name": "running-diary",
+  "version": "1.0.0",
+  "description": "记录每一次跑步：日期、距离、配速、心情和身体感受。",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.18.0",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "Harvey <harvey0379@163.com> (https://twitter.com/Harvey27171313)",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
