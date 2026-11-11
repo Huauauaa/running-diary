@@ -31,7 +31,8 @@ export default defineConfig({
           { text: '11.05 · 周四', link: '/diary/2026-11-05' },
           { text: '11.06 · 周五', link: '/diary/2026-11-06' },
           { text: '11.09 · 周一', link: '/diary/2026-11-09' },
-          { text: '11.10 · 周二', link: '/diary/2026-11-10' }
+          { text: '11.10 · 周二', link: '/diary/2026-11-10' },
+          { text: '11.11 · 周三', link: '/diary/2026-11-11' }
         ]
       }
     ],
