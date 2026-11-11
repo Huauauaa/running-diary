@@ -20,7 +20,7 @@ export default defineConfig({
   ],
   themeConfig: {
     nav: [
-      { text: '11 月日记', link: '/diary/2026-11-03' }
+      { text: '日记', link: '/diary/2026-11-03' }
     ],
     sidebar: [
       {

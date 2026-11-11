@@ -2,18 +2,18 @@
 layout: home
 
 hero:
-  name: 十一月
-  text: 六次起跑
-  tagline: 跑步日记 · 2026 年 11 月 3 日至 11 月 10 日。日期和星期已经落位，距离、配速和感受逐篇补上。
+  name: Running Diary
+  text: 跑下去，记下来
+  tagline: 一次跑步一篇日记。距离、用时、配速和感受，跑完当天填。
   actions:
     - theme: brand
-      text: 看这六次记录
+      text: 看日记
       link: /diary/2026-11-03
 
 features:
   - icon: 🏃
-    title: 6 篇
-    details: 每篇一个文件，11.03 至 11.10，工作日连续，周末两天空档
+    title: 每篇一个文件
+    details: 一次跑步一篇 markdown，以日期命名
   - icon: 📋
     title: 逐日补全
     details: 距离、用时、配速、地点、天气和感受，跑完当天填
